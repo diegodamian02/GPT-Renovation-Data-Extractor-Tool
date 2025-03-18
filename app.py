@@ -9,7 +9,7 @@ from fuzzywuzzy import fuzz
 
 
 # ✅ Set API Key Correctly
-API_KEY = "AIzaSyDg2yDd4XKcHdRkDfYDEtYL5mjB02E-PSg"  # Replace with your actual API key
+API_KEY = "USE GEMINI API"  # Replace with your actual API key
 genai.configure(api_key=API_KEY)
 
 # ✅ Extract Text from DOCX
